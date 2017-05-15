@@ -1,3 +1,8 @@
+# This application is based on the DJI iOS-GSDemo using DJI iOS SDK 3.5.1
+It can load waypoints path from files.
+If you wanna use it, you need read the informaiton below.
+This application won't be update anymore, I guess.
+
 # iOS-GSDemo
 
 ## Introduction
