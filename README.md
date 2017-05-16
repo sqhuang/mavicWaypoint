@@ -2,6 +2,7 @@
 It can load waypoints path from files.
 If you wanna use it, you need read the informaiton below.
 This application won't be update anymore, I guess.
+‘’‘1.png
 
 # iOS-GSDemo
 
