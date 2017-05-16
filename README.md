@@ -3,9 +3,9 @@ It can load waypoints path from files.
 The format of the files are shown in the VCCReader.h/cpp.
 If you wanna use it, you need read the informaiton below.
 This application won't be update anymore, I guess.
-![image](https://github.com/sqhuang/mavicWaypoint/master/1.png)
+![image](https://github.com/sqhuang/mavicWaypoint/blob/master/1.png)
 
-![image](https://github.com/sqhuang/mavicWaypoint/master/2.png)
+![image](https://github.com/sqhuang/mavicWaypoint/blob/master/2.png)
 
 # iOS-GSDemo
 
