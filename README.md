@@ -1,8 +1,11 @@
 # This application is based on the DJI iOS-GSDemo using DJI iOS SDK 3.5.1
 It can load waypoints path from files.
+The format of the files are shown in the VCCReader.h/cpp.
 If you wanna use it, you need read the informaiton below.
 This application won't be update anymore, I guess.
-‘’‘1.png
+![image](https://github.com/sqhuang/mavicWaypoint/master/1.png)
+
+![image](https://github.com/sqhuang/mavicWaypoint/master/2.png)
 
 # iOS-GSDemo
 
